@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Ethan Turon: Quantum Technologist | AI Systems Architect | Chicago, Illinois
+I am Ethan Turon | Quantum Technologist | AI Systems Architect | Chicago, Illinois
 Visit my domain: https://www.ethanturon.com
 I possess 30 years of IT Experience, having built my first computer when I was 9 years old. 
 Some of my current projects include:
