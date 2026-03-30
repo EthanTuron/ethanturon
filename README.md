@@ -1,12 +1,12 @@
 ## Hi there 👋
-I am Ethan Turon: Quantum Technologist | IT/AI Expert | Systems Architect | Senior Agile Leader | Corporate Professional
+I am Ethan Turon: Quantum Technologist | AI Systems Architect | Chicago, Illinois
 Visit my domain: https://www.ethanturon.com
 I possess 30 years of IT Experience, having built my first computer when I was 9 years old. 
 Some of my current projects include:
 -Patent work for my contributiions to the field of Quantum Computing
 -A Pharmacy-based Web Bot
--A national civic, housing, and economics database
--A live service multiplayer game where you are a drone operator trapped deep in enemy territory. Will you survive?
+-A national civic, housing, and economics platform
+-A live-service multiplayer game where you are a drone operator trapped deep in enemy territory. Will you survive?
 
 <!--
 **EthanTuron/ethanturon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
