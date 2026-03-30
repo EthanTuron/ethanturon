@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am Ethan Turon
-EthanTuron.com | AI Systems Architect | Quantum Technologist | Astra Web Bot | Senior IT & Agile Leader | Corporate Professional
+I am Ethan Turon: Quantum Technologist | IT/AI Expert | Systems Architect | Senior Agile Leader | Corporate Professional
 Visit my domain: https://www.ethanturon.com
 I possess 30 years of IT Experience, having built my first computer when I was 9 years old. 
 Some of my current projects include:
