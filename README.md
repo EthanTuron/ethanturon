@@ -3,11 +3,11 @@ I am Ethan Turon | Quantum Technologist and AI Systems Architect from Chicago, I
 
 Visit my domain: https://www.ethanturon.com
 
-I possess 30 years of IT Experience, having built my first computer when I was 9 years old. 
+I possess 30 years of Global IT Experience. 
 Some of my current projects include:
 -Patent work for my contributiions to the field of Quantum Computing
--A Pharmacy-based AI Web Bot
--A national civic, housing, and economics platform
+-A custom-built Pharmacy AGI Bot
+-A national civic modeller and
 -A live-service multiplayer game where you are a drone operator trapped deep in enemy territory. Will you survive?
 
 <!--
