@@ -7,8 +7,7 @@ I possess 30 years of Global IT Experience.
 Some of my current projects include:
 -Patent work for my contributiions to the field of Quantum Computing
 -A custom-built Pharmacy AGI Bot
--A national civic modeller and
--A live-service multiplayer game where you are a drone operator trapped deep in enemy territory. Will you survive?
+-A national civic modeller
 
 <!--
 **EthanTuron/ethanturon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
